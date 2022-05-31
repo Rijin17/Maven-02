@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Specification-Title: qwerty
+Specification-Version: qwerty
+Implementation-Title: qwerty
+Implementation-Version: qwerty
